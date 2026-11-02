@@ -1,4 +1,6 @@
 venv/
+.pip-temp/
+sklearn_download/
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
